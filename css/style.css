@@ -146,8 +146,8 @@ button {
 }
 .about-block p{
     font-weight: 400;
-    font-size: 16px;
-    line-height: 29px;
+    font-size: 17px;
+    line-height: 30px;
     text-align: center;
     color: #595959;
     width: 277px;
@@ -160,13 +160,13 @@ button {
     margin: 50px 0 0 0;
 }
 .about-block{
-    width: 356px;
+    width: 346px;
     height: 302px;
     left: 135px;
 
     background: #FFFFFF;
 
-    box-shadow: 0 4px 22px rgba(95, 95, 95, 0.05);
+    box-shadow: 0 4px 21px rgba(95, 95, 95, 0.05);
     border-radius: 23px;
 }
 #about{
@@ -185,7 +185,7 @@ button {
 .web-img{
     position: absolute;
     width: 92px;
-    height: 92px;
+    height: 93px;
     left: 710px;
     top: 1360px;
     background: rgba(255, 122, 80, 0.83);
